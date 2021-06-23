@@ -1,4 +1,12 @@
-### Hi there 👋
+### Sobre mim
+Engenheiro eletrônico apaixonado por novas tecnologias e aprender coisas novas. Gosto bastante da comunidade open source e tudo que ela proporciona no compartilhamento de conhecimentos e experiências.
+Acredito na evolução da tecnologia e a capacidade do ser humano de aprender a usa-la de forma melhor, com isso conseguiremos crescer de forma sustentável e menos agressiva ao meio ambiente.
+
+Linux Enthusiast :D
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipenodias&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipenodias&&layout=compact)](https://github.com/lipenodias/github-readme-stats)
 
 <!--
 **lipenodias/lipenodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
