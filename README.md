@@ -4,9 +4,9 @@ Acredito na evolução da tecnologia e a capacidade do ser humano de aprender a 
 
 Linux Enthusiast :D
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipenodias&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipenodias&show_icons=true)](https://github.com/lipenodias)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipenodias&&layout=compact)](https://github.com/lipenodias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipenodias&&layout=compact)](https://github.com/lipenodias)
 
 <!--
 **lipenodias/lipenodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
